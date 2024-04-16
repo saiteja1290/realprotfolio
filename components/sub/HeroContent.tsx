@@ -37,7 +37,7 @@ const HeroContent = () => {
                     variants={slideInFromLeft(0.8)}
                     className="text-lg text-gray-400 my-5 max-w-[600px]"
                 >
-                    I&apos;m a Pre Final Year Stundent from CBIT with project building exprience in Full Stack Development, Machine Learning and Deep Learning. Check out my projects and Skiils
+                    I&apos;m a Pre Final Year Student from CBIT with project building experience in Full Stack Development, Machine Learning and Deep Learning. Check out my projects and Skiils
                 </motion.p>
             </div>
 
