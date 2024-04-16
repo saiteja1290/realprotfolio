@@ -18,26 +18,22 @@ const Projects = () => {
                     description="Implemented GANs to enhance radar signal classification, which
                     generated synthetic radar data to augment the training dataset.
                     "
-                    link="#"
                 />
                 <ProjectCard
                     src="/Neuralnexuswebsite.png"
                     title="Neural Nexus Community Website"
                     description="Developed a website for a Neural Nexus CBIT club, it is being used and accessed by 500+ people."
-                    link="https://saiteja1290.github.io/NeuralNexus/"
                 />
                 <ProjectCard
                     src="/NeuralChef.png"
                     title="Neural Chef - Competitive Coding Platform"
                     description="Designed and Developed a website where users can articipate in weekly
                     coding contests."
-                    link="https://dumb2-frontend.vercel.app/"
                 />
                 <ProjectCard
                     src="/SpaceWebsite.png"
                     title="Personal Portfolio"
                     description="Made a personal portfolio website using Next.js and Three.js"
-                    link="#"
                 />
             </div>
             <div className='w-full h-auto flex flex-col items-center justify-center'>
