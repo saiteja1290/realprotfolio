@@ -39,9 +39,6 @@ const HeroContent = () => {
                 >
                     I&apos;m a Pre Final Year Stundent from CBIT with project building exprience in Full Stack Development, Machine Learning and Deep Learning. Check out my projects and Skiils
                 </motion.p>
-                <div className='text-white'>
-                    Learn More
-                </div>
             </div>
 
             <motion.div
