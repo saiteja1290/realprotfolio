@@ -1,5 +1,6 @@
 import { Socials } from "@/constants";
 import Image from "next/image";
+import Link from "next/link";
 import React from "react";
 
 const Navbar = () => {
@@ -24,6 +25,7 @@ const Navbar = () => {
 
                 <div className="flex flex-row gap-5">
                     {Socials.map((social) => (
+
 
                         <Image
                             src={social.src}

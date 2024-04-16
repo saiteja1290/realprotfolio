@@ -39,7 +39,7 @@ const Projects = () => {
             <div className='w-full h-auto flex flex-col items-center justify-center'>
 
                 <div
-                    className='text-[20px] text-white font-medium mt-[15px] text-center mb-[15px]'
+                    className='text-[20px] text-white font-medium mt-[15px] text-center mb-[0px]'
                 >
                     Check out my <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
                         {" "}
@@ -47,11 +47,6 @@ const Projects = () => {
                         {" "}
                     </span> to see all of my projects and what I am working on
                 </div>
-            </div>
-            <div>
-                <a href="https://github.com/saiteja1290" className="text-white">Github - saiteja1290</a>
-                <br />
-                <a href="https://github.com/saiteja1290" className="text-white">Mail - saiteja.palegar@gmail.com</a>
             </div>
         </div>
     );
