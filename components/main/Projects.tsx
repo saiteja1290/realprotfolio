@@ -54,6 +54,8 @@ const Projects = () => {
             </div>
             <div>
                 <a href="https://github.com/saiteja1290" className="text-white">Github - saiteja1290</a>
+                <br />
+                <a href="https://github.com/saiteja1290" className="text-white">Mail - saiteja.palegar@gmail.com</a>
             </div>
         </div>
     );
